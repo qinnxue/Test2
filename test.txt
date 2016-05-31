@@ -1,0 +1,7 @@
+ruby/Java 8/swift 试题: 用 yml(swift 使用 plist) 配置三个 restful API 地址(自己网上找), 程序读取 yml, 每个 api 开启一个线程调用 restful API 取 JSON response, 存储到本地文件, 然后再读取此文件, 对每一级 array/hash 进行循环并打印内容, 对 array, 给定一个关键字要求查询 index, 对 hash, 给定一个 value 关键字查询出所有满足条件的 key, 最后在界面或控制台打印出搜索结果
+
+项目要 push 到 github, clone 下来要能运行, 下周五为截止时间, 不允许占用上班时间
+
+
+ruby 读取yaml文件
+http://blog.csdn.net/beiquandeng/article/details/9151805
